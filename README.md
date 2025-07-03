@@ -17,7 +17,7 @@ cooperspencer@home:~$ hi
  ⣿⣿   ⣿⣿⡇                ⢸⣿⣿
  ⢿⣿⡆  ⣿⣿⡇                ⢼⣿⡇        Contact
  ⠸⣿⣧⡀ ⣿⣿⡇                ⣿⣿⡇        -------
-  ⠛⢿⣿⣿⣿⣿⣇     ⣰⣿⣿⣷⣶⣿⣷⡆  ⣿⣿⠁         Email: andreas.wachter@buddyspencer.monster
+  ⠛⢿⣿⣿⣿⣿⣇     ⣰⣿⣿⣷⣶⣿⣷⡆  ⣿⣿⠁         Email: hello@buddyspencer.monster
        ⣿⣿     ⣿⣿⡇ ⣽⣿⡟⠁  ⢸⣿⡟         Website: https://blog.buddyspencer.monster
        ⣿⣿     ⣿⣿⡇ ⢹⣿⡆   ⣼⣿⡇         LinkedIn: andreas-wachter-138149199
        ⢿⣿⣦⣄⣀⣠⣴⣿⣿  ⠈⠻⣿⣿⣿⣿⡿⠇
